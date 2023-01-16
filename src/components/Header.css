@@ -1,0 +1,31 @@
+header {
+  padding: .5rem 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+header img {
+  width: 50px;
+}
+
+.company {
+  display: flex;
+  gap: .5rem;
+  align-items: center;
+}
+.company h1 {
+  font-size: 1.5rem;
+}
+
+.user-img {
+  background: #dfe6ed;
+  height: 50px;
+  width: 50px;
+  border-radius: 500rem;
+  text-align: center;
+}
+.user-img img {
+  margin-top: 50%;
+  transform: translateY(-50%);
+  width: 30px;
+}
