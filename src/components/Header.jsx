@@ -5,7 +5,7 @@ const Header = () => {
     <header id="header">
       <div className="company">
         <img 
-          src="https://media.licdn.com/dms/image/C4E0BAQEK4coXlsqw5A/company-logo_200_200/0/1642679289278?e=2147483647&v=beta&t=FV1x7tjaOHD6S3wkdwAuJSUYPBZ9CZUy2MYKLmHWiVM" 
+          src="https://media.istockphoto.com/id/1222357475/pt/vetorial/image-preview-icon-picture-placeholder-for-website-or-ui-ux-design-vector-illustration.jpg?b=1&s=170x170&k=20&c=i852GanRwef9Q2xmrdfd0nj_-FLYbyRKE48hGEjfeyA=" 
           alt="logo da Farmacia"
           />
         <h1>Pharma Inc</h1>
